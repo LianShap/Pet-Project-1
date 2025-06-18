@@ -2,7 +2,8 @@ Release 1.0.0.
 
 
 UKRAINIAN:
-# 💰 Personal Finance Tracker
+
+# 💰 Трекер особистих фінансів
 
 Веб-додаток для зручного відстеження особистих доходів і витрат з підтримкою категорій, статистики та інтерактивних графіків.
 
@@ -74,6 +75,9 @@ Backend:
 
 
 ENGLISH
+
+# 💰 Personal Finance Tracker
+
 A web application for convenient tracking of personal income and expenses with support for categories, statistics, and interactive graphs.
 
 ---
