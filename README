@@ -1,4 +1,7 @@
 Release 1.0.0.
+
+
+UKRAINIAN:
 # 💰 Personal Finance Tracker
 
 Веб-додаток для зручного відстеження особистих доходів і витрат з підтримкою категорій, статистики та інтерактивних графіків.
@@ -63,6 +66,76 @@ Backend:
 
 Анастасія Шаповал
 - Роль: Девопс, Фронтенд
+- email: anastashap03@gmail.com
+- LinkendIn: https://www.linkedin.com/in/anastasia-shapoval-957984361
+- GitHub: https://github.com/LianShap
+- Djinii: 
+
+
+
+ENGLISH
+A web application for convenient tracking of personal income and expenses with support for categories, statistics, and interactive graphs.
+
+---
+
+## 🧩 Functional
+
+- 🔒 User authentication
+- ✅ Adding income and expenses
+- ✅ Categories for each transaction (food, transportation, salary, etc.)
+- ✅ Filtering and searching by periods and categories
+- 💵 Currency conversion
+- 📊 Expense and income charts
+- 📅 Statistics by day, week, month
+- 🌙 Dark/light theme
+- ⚙️ User personalization settings
+
+---
+
+## 🛠️ Technologies
+
+Frontend:
+- React
+- TypeScript
+- ...
+
+Backend:
+- Node.js + NEST
+- TypeScript
+- MySQL
+- ...
+
+---
+
+## 👥 The authors:
+
+Yana Burysheva
+- Role: Frontend
+- email: neyankiess@gmail.com
+- LinkendIn:
+- GitHub: https://github.com/nerolli
+
+Inna Darnel
+- Role: Designer
+- email: innadarnel@gmail.com
+- LinkendIn: www.linkedin.com/in/inna-darnel-b1b917311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- GitHub: https://github.com/innadarnel
+
+Vladyslav Lozenko
+- Role: Backend
+- email: 
+- LinkendIn: 
+- GitHub: https://github.com/scr1ll-1111
+
+Stanislav Starodubtsev
+- Role: Backend, Manager, Tester
+- email: sstarodubtsev79
+- LinkendIn: www.linkedin.com/in/stanislav-starodubtsev-535074370
+- GitHub: https://github.com/StanislavStarodubtsev
+- Djinii: https://djinni.co/q/b8692b28be/
+
+Shapoval Anastasia
+- Role: DevOps, Frontend
 - email: anastashap03@gmail.com
 - LinkendIn: https://www.linkedin.com/in/anastasia-shapoval-957984361
 - GitHub: https://github.com/LianShap
