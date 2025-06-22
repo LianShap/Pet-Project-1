@@ -33,7 +33,7 @@ Frontend:
 Backend:
 - Node.js + NEST
 - TypeScript
-- MySQL
+- PostgreSQL
 - ...
 
 ---
@@ -106,7 +106,7 @@ Frontend:
 Backend:
 - Node.js + NEST
 - TypeScript
-- MySQL
+- PostgreSQL
 - ...
 
 ---
