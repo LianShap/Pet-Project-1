@@ -1,4 +1,5 @@
 import React from 'react';
+import CountdownTimer from './components/CountdownTimer';
 import logo from './Logo, Dark Vertical.svg';
 import './App.css';
 
@@ -8,7 +9,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p className='Text'>
-          In progress...
+          Until release:
+          <CountdownTimer/>
         </p>
         <a
           className="App-link"
@@ -16,7 +18,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn more about us
+          
+          More about us
         </a>
       </header>
     </div>
