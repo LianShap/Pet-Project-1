@@ -84,7 +84,7 @@ const styles: Record<string, React.CSSProperties> = {
   number: {
     backgroundColor: "#169976",
     color: "#F7F9FA",
-    fontSize: "25px",
+    fontSize: "3vmin",
     fontWeight: 700,
     width: "9vmin",
     height: "9vmin",
