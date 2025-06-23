@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.orghttps://github.com/LianShap/Pet-Project-1"
+          href="https://github.com/LianShap/Pet-Project-1"
           target="_blank"
           rel="noopener noreferrer"
         >
